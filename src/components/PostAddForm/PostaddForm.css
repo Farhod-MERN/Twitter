@@ -1,0 +1,18 @@
+.bottom-panel{
+    margin-top: 20px;
+}
+
+.bottom-panel .new-post-label {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+}
+.post-add
+{
+    position: absolute;
+    bottom:0;
+    left: 0;
+    width: 100%;
+    z-index: 11;
+    background-color: #fff;
+}
